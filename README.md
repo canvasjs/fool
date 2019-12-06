@@ -80,4 +80,4 @@ export default {
 
 > 效果图
 
-![1](.\1.png)
+![1](https://github.com/canvasjs/fool/blob/master/1.png)
