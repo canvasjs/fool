@@ -25,6 +25,7 @@ npm test
 ```
 
 ```vue
+<!-- vue 组件 -->
 <SvgRect ref="mySvg"   />
 ```
 ```javascript
@@ -76,3 +77,7 @@ export default {
   }
 }
 ```
+
+> 效果图
+
+![1](.\1.png)
